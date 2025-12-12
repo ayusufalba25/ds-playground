@@ -1,0 +1,1 @@
+Measuring uncertainty of future financial return relates to understanding distribution of the return itself.

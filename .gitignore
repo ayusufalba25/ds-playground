@@ -113,5 +113,4 @@ dmypy.json
 .pyre/
 
 # Others
-*.db
-*.pdf
+.idea/
